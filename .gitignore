@@ -1,3 +1,10 @@
+
+# data folder
+data_take_home
+
+
+####
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
