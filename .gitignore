@@ -5,6 +5,9 @@ data_take_home
 # deep learning models folder
 dl_models
 
+# processed features
+features.csv
+
 
 ####
 
