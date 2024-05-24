@@ -1,0 +1,7 @@
+face-recognition
+ipykernel
+matplotlib
+opencv-python
+pandas
+pytesseract
+scikit-learn
