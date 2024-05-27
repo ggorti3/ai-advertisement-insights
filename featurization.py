@@ -102,7 +102,7 @@ def clustering_variance(img_path, n_clusters=4):
 
     return cluster_vars.sum()
 
-def face_detection(img_path, detector, threshold=0.3):
+def face_detection(img_path, detector, threshold=0.8):
     image = mp.Image.create_from_file(img_path)
     detection_result = detector.detect(image)
 
